@@ -22,7 +22,7 @@ A simple Android application built using Jetpack Compose that displays a list of
 - Repository pattern for managing data flow
 - ViewModel for UI state and logic management
 
-### Screenshots
+## Screenshots
 <img width="1080" height="2400" alt="Screenshot_20251121_024914" src="https://github.com/user-attachments/assets/e80a5742-e050-4605-a638-5400917629b6" />
 
 <img width="1080" height="2400" alt="Screenshot_20251121_024901" src="https://github.com/user-attachments/assets/d625a702-587b-46ac-b522-2c4122f88066" />
